@@ -1,0 +1,7 @@
+$purple-color: blueviolet;
+$gray-background: gray;
+
+:export {
+    purplecolor: $purple-color;
+    grayBackground: $gray-background;
+}

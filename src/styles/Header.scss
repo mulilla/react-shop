@@ -1,0 +1,22 @@
+@import './Variables.scss';
+
+.headerMain {
+    background-color: $gray-background;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.alterTitleText {
+    color: $purple-color;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h6 {
+    display: flex;        
+    align-items: end;
+    padding-bottom: 1vh;
+}
